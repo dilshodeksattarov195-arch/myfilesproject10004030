@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerptringify",
+        "uuid": 39526240,
+        "checksum": "6jhuil"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
